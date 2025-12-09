@@ -1,5 +1,6 @@
 # Turtle-Circle
-利用ROS2实现小海龟画圈
+利用ROS2实现小海龟画圈————总共给出了Python版和C++版  
+README中以C++举例
 ## 一、安装运行环境  
 1. **安装 VirtualBox**  
    [VirtualBox 官网下载地址](https://www.virtualbox.org/)  建议安装到D盘   
